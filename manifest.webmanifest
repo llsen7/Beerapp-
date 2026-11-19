@@ -1,0 +1,13 @@
+{
+  "name": "BrewDex",
+  "short_name": "BrewDex",
+  "description": "Catch 'em all — a Pokédex for beers and drinks.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#F4EFE6",
+  "theme_color": "#C8102E",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
